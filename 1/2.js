@@ -2,9 +2,10 @@
 // «Василий». Скопировать значение из name в admin и вывести admin.
 // Подсказка: должно вывестись «Василий».
 
-let admin, name
+let admin
+let name
 
 name = 'Василий'
 admin = name
-console.log(admin)
+alert(admin)
 
