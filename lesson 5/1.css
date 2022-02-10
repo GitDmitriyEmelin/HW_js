@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+    flex-flow: row nowrap;
+}
+.cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+}
+.black {
+    background-color: black;
+}
+.white {
+    background-color: white;
+}
