@@ -7,18 +7,38 @@
 let catalog = [
     {
         id: 1,
-        title: 'Компьютер',
+        title: 'Кот Витя',
         price: 10000
     },
     {
         id: 2,
-        title: 'Телефон',
+        title: 'Кот Барсик',
         price: 1200
     },
     {
         id: 3,
-        title: 'Шляпа',
+        title: 'Кот Роки',
         price: 10
+    }
+    {
+        id: 4,
+        title: 'Кот Рама',
+        price: 1000
+    }
+    {
+        id: 5,
+        title: 'Кот Бизон',
+        price: 200
+    }
+    {
+        id: 6,
+        title: 'Кот Коржик',
+        price: 300
+    }
+    {
+        id: 7,
+        title: 'Кот Кракозяблик',
+        price: 245
     }
 ];
 
